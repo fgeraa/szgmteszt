@@ -1,1 +1,7 @@
-sajtbol van a hold
+sudo nano ea01.txt
+git status
+sudo git add ea01.txt
+sudo git add * (all)
+git commit -m "jegyzet"
+git config --global user.email "email"
+git push -u origin master
